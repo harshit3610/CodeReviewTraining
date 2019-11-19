@@ -13,7 +13,7 @@ namespace CodeReviewTraining
             {
                 Console.WriteLine("a+b");
                 a = b;
-                b = a;
+                b = temp;
             }
             #This is my changes
         }
